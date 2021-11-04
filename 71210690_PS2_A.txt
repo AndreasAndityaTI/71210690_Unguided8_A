@@ -1,4 +1,4 @@
-Kopi dituangkan ke pipa pada pipa itu terdapat dua jalur yaitu kiri dan kanan. Kopi tersebut bisa mengalir menuju ke dua jalur itu.
+Kopi dituangkan ke pipa yang terdapat dua jalur yaitu kiri dan kanan. Kopi tersebut bisa mengalir menuju ke dua jalur itu.
 
 Di jalur kiri ada dua cabang jalur yaitu kiri dan kanan. Cabang jalur kiri menuju cangkir 4, sedangkan cabang jalur kanan menuju cangkir 9. Cabang jalur kiri buntu maka kopi tidak dapat mengalir ke jalur itu maka hanya bisa melalui cabang jalur bagian kanan. Ujung cabang jalur kanan jalur tersebut buntu maka dari itu kopi tersebut tidak dapat mengalir.
 
